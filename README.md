@@ -26,9 +26,10 @@ Graph shows the same result, count of email containing meeting related words are
 
 
 ## Analysis 2:  
-Extracted data by parsing the emails and created a text file containing the keywords which are under scrutiny and folder also contains the list of employees those were involved in discussion of deceitful act. 
-Folder: [Emails with keywords](https://github.com/Anurag0212/exploratory-data-analysis-on-Enron-Scandal/tree/master/Emails%20with%20Keywords)
+Extracted data by parsing the emails and created a text file containing the keywords which are under scrutiny and folder also contains the list of employees those were involved in discussion of deceitful act.  
+Folder: [Emails with keywords](https://github.com/Anurag0212/exploratory-data-analysis-on-Enron-Scandal/tree/master/Emails%20with%20Keywords)  
   
+
 
 ## Analysis 3:  
 Keywords like ‘Gift’ and ‘Rewards’ were significantly increased by 76% in the email content in year 2001 as compared to 1999
